@@ -1,0 +1,10 @@
+{
+  "name": "aurafleet-crm",
+  "version": "2.0.0",
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "@neondatabase/serverless": "^0.10.4",
+    "nodemailer": "^6.9.16"
+  }
+}

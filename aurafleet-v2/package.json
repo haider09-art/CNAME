@@ -1,0 +1,17 @@
+{
+  "name": "aurafleet-crm",
+  "version": "2.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vercel dev",
+    "start": "vercel dev"
+  },
+  "dependencies": {
+    "@neondatabase/serverless": "^0.10.4",
+    "nodemailer": "^6.9.16"
+  },
+  "devDependencies": {
+    "vercel": "^46.1.1"
+  }
+}
